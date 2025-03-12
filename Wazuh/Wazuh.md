@@ -1,1 +1,3 @@
-A Wazuh egy nyílt forráskódú biztonsági monitorozó és incidenskezelő platform, amely valós idejű fenyegetésészlelést, sebezhetőség-észlelést és megfelelőségi ellenőrzést biztosít. Főként rendszernaplók elemzésével, fájlintegritás-monitorozással és sebezhetőség-ellenőrzéssel védi a hálózatokat és eszközöket. Rugalmasan integrálható más biztonsági eszközökkel, és támogatja a felhőalapú és helyszíni környezeteket is.
+A Wazuh egy nyílt forráskódú biztonsági monitorozó és incidenskezelő platform, amely valós idejű fenyegetésészlelést, sebezhetőség-észlelést és megfelelőségi ellenőrzést biztosít. Főként rendszernaplók elemzésével, fájlintegritás-monitorozással és sebezhetőség-ellenőrzéssel védi a hálózatokat és eszközöket. Rugalmasan integrálható más biztonsági eszközökkel, és támogatja a felhőalapú és helyszíni környezeteket is.  
+  
+ [https://wazuh.com/](https://wazuh.com/)
